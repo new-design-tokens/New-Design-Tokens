@@ -1,0 +1,66 @@
+:root {
+  --color-alias-color-background-body: #ededed; /* Body background color */
+  --color-alias-color-background-high-emphasis: #fcfcfc; /* Background Color for components with high emphasis */
+  --color-alias-color-background-low-emphasis: #d4d4d4; /* background color for elements with a low emphasis */
+  --color-alias-color-background-medium-emphasis: #e0e0e0; /* Background Color for components with medium emphasis */
+  --color-alias-color-border-focus-outline: #686fc8; /* color for default focus outline */
+  --color-alias-color-border-heavy: #e0e0e0; /* heavy border color */
+  --color-alias-color-border-medium: #777777; /* medium border color */
+  --color-alias-color-border-subtle: #4b4b4b; /* subtle border color */
+  --color-alias-color-primary-brand: #1c1c1e; /* background color for primary brand elements */
+  --color-alias-color-primary-interaction: #1a6a5d; /* Color that indicates interactions */
+  --color-alias-color-primary-on-brand: #c5f8ea; /* color for elements that are placed on brand background color */
+  --color-alias-color-primary-on-interaction: #c5f8ea; /* color for elements that are placed on interactive background colors */
+  --color-alias-color-purpose-critical-high-emphasis: #f37a73; /* color for elements with critical purpose of high emphasis */
+  --color-alias-color-purpose-critical-low-emphasis: #ba5a56; /* color for elements with critical purpose of low emphasis */
+  --color-alias-color-purpose-info-high-emphasis: #9598e0; /* color for elements with informational purpose of high emphasis */
+  --color-alias-color-purpose-info-low-emphasis: #d0d2f3; /* color for elements with informational purpose of low emphasis */
+  --color-alias-color-purpose-on-critical: #3b2020; /* color for elements placed on critical purpose background */
+  --color-alias-color-purpose-on-info: #39345a; /* color for elements placed on informational purpose background */
+  --color-alias-color-purpose-on-success: #2a3e28; /* color for elements placed on success purpose background */
+  --color-alias-color-purpose-on-warning: #3e3922; /* color for elements placed on warning purpose background */
+  --color-alias-color-purpose-success-high-emphasis: #69ad65; /* color for elements with success purpose of high emphasis */
+  --color-alias-color-purpose-success-low-emphasis: #b0e1aa; /* color for elements with success purpose of low emphasis */
+  --color-alias-color-purpose-warning-high-emphasis: #f0d36b; /* color for elements with warning purpose of high emphasis */
+  --color-alias-color-purpose-warning-low-emphasis: #b19d51; /* color for elements with warning purpose of low emphasis */
+  --color-alias-color-state-disable: #d4d4d4; /* background color for disabled elements */
+  --color-alias-color-state-focus: rgba(237, 237, 237, 0.16); /* Background color for state overlay of a focused element */
+  --color-alias-color-state-hover: rgba(237, 237, 237, 0.16); /* Background color for state overlay of a hovered element */
+  --color-alias-color-state-on-disable: #4b4b4b; /* color for elements that are placed on disabled background color */
+  --color-alias-color-state-on-select: #1a6a5d; /* Foreground color for selected elements */
+  --color-alias-color-state-on-select-inverted: #c5f8ea; /* inverted color for elements on selected backgrounds */
+  --color-alias-color-state-press: rgba(237, 237, 237, 0.08); /* Background color for state overlay of a pressed element */
+  --color-alias-color-state-select: #c5f8ea; /* background color for selected elements */
+  --color-alias-color-state-select-inverted: #1a6a5d; /* Inverted background color for selected elements */
+  --color-alias-color-text-default: #282828; /* Default text color */
+  --color-alias-color-text-inverted: #fcfcfc; /* Inverted text color */
+  --color-alias-color-text-subtle: #5e5e5e; /* Text color in subtle weight */
+  --content-alias-typescale-font-family-body-long: Inter; /* fontfamily for multi line paragraph texts */
+  --content-alias-typescale-font-family-body-short: Inter; /* fontfamily for single line paragraph texts */
+  --content-alias-typescale-font-family-body-small: Inter; /* fontfamily for small paragraph texts */
+  --content-alias-typescale-font-family-display-1: Inter; /* fontfamily for display 01 */
+  --content-alias-typescale-font-family-display-2: Inter; /* fontfamily for display 02 */
+  --content-alias-typescale-font-family-headline-1: Inter; /* fontfamily for headline 01 */
+  --content-alias-typescale-font-family-headline-2: Inter; /* fontfamily for headline 02 */
+  --content-alias-typescale-font-family-headline-3: Inter; /* fontfamily for headline 03 */
+  --content-alias-typescale-font-family-headline-4: Inter; /* fontweight for headline 04 */
+  --content-alias-typescale-font-family-headline-5: Inter; /* fontfamily for headline 05 */
+  --content-alias-typescale-font-family-hyperlink-default: Inter; /* fontfamily for hyperlinks */
+  --content-alias-typescale-font-family-hyperlink-hover: Inter; /* fontfamily for hyperlinks in hover state */
+  --content-alias-typescale-font-family-label-long: Inter; /* fontfamily for multi line labels */
+  --content-alias-typescale-font-family-label-short: Inter; /* fontfamily for single line labels */
+  --content-alias-typescale-font-weight-body-long: Regular; /* font weight for multi line paragraph texts */
+  --content-alias-typescale-font-weight-body-short: Regular; /* font weight for single line paragraph texts */
+  --content-alias-typescale-font-weight-body-small: Regular; /* font weight for small paragraph texts */
+  --content-alias-typescale-font-weight-display-1: Black; /* font weight for display 01 */
+  --content-alias-typescale-font-weight-display-2: Bold; /* font weight for display 02 */
+  --content-alias-typescale-font-weight-headline-1: Black; /* font weight for headline 01 */
+  --content-alias-typescale-font-weight-headline-2: Bold; /* font weight for headline 02 */
+  --content-alias-typescale-font-weight-headline-3: Bold; /* font weight for headline 03 */
+  --content-alias-typescale-font-weight-headline-4: Bold; /* font weight for headline 04 */
+  --content-alias-typescale-font-weight-headline-5: Bold; /* font weight for headline 05 */
+  --content-alias-typescale-font-weight-hyperlink-default: Regular; /* font weight for hyperlinks */
+  --content-alias-typescale-font-weight-hyperlink-hover: Regular; /* font weight for hyperlinks in hover state */
+  --content-alias-typescale-font-weight-label-long: Bold; /* font weight for multi line labels */
+  --content-alias-typescale-font-weight-label-short: Semi Bold; /* font weight for single line  labels */
+}
