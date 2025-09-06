@@ -18,7 +18,7 @@ class  {
     static const colorAliasColorBorderMedium = Color(0xFF777777); /* medium border color */
     static const colorAliasColorBorderSubtle = Color(0xFF4B4B4B); /* subtle border color */
     static const colorAliasColorPrimaryBrand = Color(0xFF1C1C1E); /* background color for primary brand elements */
-    static const colorAliasColorPrimaryInteraction = Color(0xFF00D4B6); /* Color that indicates interactions */
+    static const colorAliasColorPrimaryInteraction = Color(0xFF19544B); /* Color that indicates interactions */
     static const colorAliasColorPrimaryOnBrand = Color(0xFFC5F8EA); /* color for elements that are placed on brand background color */
     static const colorAliasColorPrimaryOnInteraction = Color(0xFFC5F8EA); /* color for elements that are placed on interactive background colors */
     static const colorAliasColorPurposeCriticalHighEmphasis = Color(0xFFF37A73); /* color for elements with critical purpose of high emphasis */
